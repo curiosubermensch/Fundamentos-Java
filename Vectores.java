@@ -1,7 +1,6 @@
 
 import java.security.SecureRandom;
 
-//ankiado 21-06-20
 public class Vectores {
     //-------FORMAS DE DECLARAR UN ARRAY:---------
     //CORCHETE ANTES DEL NOMBRE: int[] array=new int[4];
