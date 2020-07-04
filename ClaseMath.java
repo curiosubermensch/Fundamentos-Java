@@ -3,7 +3,6 @@ import java.util.Scanner;
 
 
 public class ClaseMath {
-    //ANKIADA EN SU TOTALIDAD :D
     
     //clase Math
     //random(): Retorna un numero entre 0 y 1
