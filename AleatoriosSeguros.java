@@ -1,4 +1,3 @@
-//ANKIADA, excepto el algoritmo para las frecuencias del lanzamiento de hartos dados
 import java.security.SecureRandom;
 
 
